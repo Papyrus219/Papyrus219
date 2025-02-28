@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Papyrus219
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C++ and algorythms
+- 🌱 I’m currently learning C++ and SFML
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Lego is the biggest producer tires in the world
 
