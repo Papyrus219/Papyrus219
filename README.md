@@ -2,7 +2,7 @@
 - 👀 I’m interested in c++, and low-level programing.
 - 🌱 I’m currently learning Vulcan
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Lego is the biggest producer tires in the world
+- ⚡ Fun fact: Lego is the biggest tire producer in the world
 
 <!---
 Papyrus219/Papyrus219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
